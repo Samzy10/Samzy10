@@ -1,11 +1,11 @@
 ### Hello, I'm Samuel Onuorah 👋
 
 - 🔭 I’m currently working on a Todo-List
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on YouTube 
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on React.js 
+- 🤔 I’m looking for help with AWS
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: onuorahsamuel45@gmail.com
-- 😄 Pronouns: he/his 
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I debug most of my code in the dream state
 
