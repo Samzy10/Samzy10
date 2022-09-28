@@ -1,6 +1,6 @@
 ### Hello, I'm Samuel Onuorah 👋
 
-- 🔭 I’m currently working on a Todo-List
+- 🔭 I’m currently working on a very interesting project
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on React.js 
 - 🤔 I’m looking for help with AWS
